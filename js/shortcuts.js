@@ -7,7 +7,8 @@ export default [
       AWS: "https://aws.amazon.com",
       "Dev.to": "https://dev.to",
       Firebase: "https://console.firebase.google.com/u/0",
-      "Circle Medical": "https://www.github.com/circle-medical",
+      "Circle Medical": "https://www.github.com/circlemedical",
+      "Circle Medical - Admin": "https://www.github.com/circlemedical/admin",
     },
   },
   {
@@ -34,12 +35,7 @@ export default [
     category: "Misc",
     color: "purple",
     items: {
-      Trakt: "https://trakt.tv/users/peterrauscher/lists",
       YouTube: "https://www.youtube.com/",
-      Fmovies: "https://fmovies.to/home",
-      Zoro: "https://zoro.to",
-      TempMail: "https://tempmail.email/",
-      // IPTorrents: "https://iptorrents.com/t",
     },
   },
 ];
