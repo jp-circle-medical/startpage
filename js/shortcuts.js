@@ -7,6 +7,7 @@ export default [
       AWS: "https://aws.amazon.com",
       "Dev.to": "https://dev.to",
       Firebase: "https://console.firebase.google.com/u/0",
+      "Circle Medical": "https://www.github.com/circle-medical",
     },
   },
   {
