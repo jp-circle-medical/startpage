@@ -4,18 +4,15 @@ export default [
     color: "cyan",
     items: {
       Github: "https://github.com",
-      AWS: "https://aws.amazon.com",
-      "Dev.to": "https://dev.to",
-      Firebase: "https://console.firebase.google.com/u/0",
       "Circle Medical": "https://www.github.com/circlemedical",
-      "Circle Medical - Admin": "https://www.github.com/circlemedical/admin",
+      Admin: "https://www.github.com/circlemedical/admin",
+      Helix: "https://www.github.com/circlemedical/helix",
     },
   },
   {
     category: "School",
     color: "red",
     items: {
-      Outlook: "https://outlook.office365.com/mail/inbox",
       Canvas: "https://sit.instructure.com",
       MyStevens: "https://login.stevens.edu/app/UserHome",
     },
@@ -24,11 +21,9 @@ export default [
     category: "Work",
     color: "green",
     items: {
-      Linkedin: "https://linkedin.com",
-      Twitter: "https://twitter.com",
-      Leetcode: "https://leetcode.com",
-      Handshake: "https://app.joinhandshake.com/stu/postings",
-      Indeed: "https://www.indeed.com/",
+      Calendar: "https://calendar.google.com",
+      Email: "https://mail.google.com",
+      Lattice: "https://circlemedical.latticehq.com/",
     },
   },
   {
@@ -36,6 +31,7 @@ export default [
     color: "purple",
     items: {
       YouTube: "https://www.youtube.com/",
+      Reddit: "https://www.reddit.com/",
     },
   },
 ];
