@@ -33,6 +33,7 @@ export default [
     items: {
       YouTube: "https://www.youtube.com/",
       Reddit: "https://www.reddit.com/",
+      GPT: "https://chat.openai.com/",
     },
   },
 ];
