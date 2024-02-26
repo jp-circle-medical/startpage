@@ -15,6 +15,7 @@ export default [
     items: {
       Dev: "https://app-dev.circlemedical.com",
       Prod: "https://app.circlemedical.com",
+      Local: "http://localhost:3000"
     },
   },
   {

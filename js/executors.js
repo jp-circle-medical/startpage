@@ -52,7 +52,7 @@ export default {
   search: (options) => {
     const query = options.join(" ") || null;
     if (query) {
-      window.location.href = `https://www.google.com.com/search?q=${encodeURIComponent(
+      window.location.href = `https://www.google.com/search?q=${encodeURIComponent(
         query,
       )}`;
     } else {
