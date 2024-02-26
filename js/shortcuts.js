@@ -10,11 +10,11 @@ export default [
     },
   },
   {
-    category: "School",
+    category: "Environments",
     color: "red",
     items: {
-      Canvas: "https://sit.instructure.com",
-      MyStevens: "https://login.stevens.edu/app/UserHome",
+      Dev: "https://app-dev.circlemedical.com",
+      Prod: "https://app.circlemedical.com",
     },
   },
   {
